@@ -1,0 +1,51 @@
+[
+  {
+    "id": 7,
+    "nombre": "Camila",
+    "cafe": true,
+    "te": false,
+    "jugo": false
+  },
+  {
+    "id": 1,
+    "nombre": "Carlos Gómez",
+    "cafe": true,
+    "te": false,
+    "jugo": false
+  },
+  {
+    "id": 2,
+    "nombre": "Ana María Torres",
+    "cafe": false,
+    "te": true,
+    "jugo": false
+  },
+  {
+    "id": 3,
+    "nombre": "Luis Martínez",
+    "cafe": true,
+    "te": false,
+    "jugo": true
+  },
+  {
+    "id": 4,
+    "nombre": "Elena Morales",
+    "cafe": true,
+    "te": true,
+    "jugo": true
+  },
+  {
+    "id": 5,
+    "nombre": "Pedro Ramírez",
+    "cafe": false,
+    "te": false,
+    "jugo": true
+  },
+  {
+    "id": 6,
+    "nombre": "Sofía Herrera",
+    "cafe": false,
+    "te": true,
+    "jugo": true
+  }
+]

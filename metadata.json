@@ -1,0 +1,6 @@
+{
+  "name": "Encuesta de Bebidas - Café, Té y Jugo",
+  "description": "Encuesta interactiva sobre preferencias de café, té y jugo con estadísticas, desglose y conexión a base de datos MySQL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
